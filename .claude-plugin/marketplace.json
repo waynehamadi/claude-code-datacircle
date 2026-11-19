@@ -1,0 +1,18 @@
+{
+  "name": "datacircle",
+  "description": "Find the best GTM APIs. Our plugin for Claude Code, on our open API with no key.",
+  "owner": {
+    "name": "Datacircle",
+    "url": "https://datacircle.dev"
+  },
+  "plugins": [
+    {
+      "name": "datacircle",
+      "source": "./",
+      "description": "Find the best GTM APIs. A skill that calls our open API, free with no key: list every API, see who is best for each and search every plan, at api.datacircle.dev/v1.",
+      "version": "0.1.0",
+      "homepage": "https://datacircle.dev",
+      "category": "api"
+    }
+  ]
+}
